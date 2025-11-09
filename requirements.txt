@@ -1,0 +1,52 @@
+
+# LLM and Orchestration
+
+langchain==0.3.7 
+langchain-core>=0.3.13 
+langchain-community==0.3.7 
+langchain-openai
+langsmith>=0.1.131 
+langgraph==0.2.19
+
+openai>=1.42.0
+
+# Vector Store
+faiss-cpu>=1.8.0.post1
+
+# Document Processing
+pypdf2==3.0.1
+pdfplumber==0.10.3
+pillow==10.2.0
+
+# Google Drive Integration
+google-api-python-client==2.118.0
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# Data Handling
+pandas==2.1.4
+numpy==1.26.3
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Evaluation
+scikit-learn==1.4.0
+
+# Utilities
+python-dotenv>=1.0.1
+tqdm==4.66.1
+rich==13.7.0
+click==8.1.7
+
+# Logging
+loguru==0.7.2
+
+# Additional Libraries
+sentence-transformers
+ollama 
+tiktoken
+pymupdf 
+beautifulsoup4 
+mcp  
+
